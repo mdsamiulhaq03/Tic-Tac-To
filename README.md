@@ -17,7 +17,7 @@ The score is updated automatically when a player wins. 🏅
 Click Reset to clear the board and start a new round. 🔄
 
 Gameplay Demo:
-<img src="screenshots/image.png" alt="Gameplay Demo" width="500"/>
+![Home Screen](screenshots/screenshot1.png)
 
 Win Patterns 🏆
 
